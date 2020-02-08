@@ -1,0 +1,7 @@
+C:\LastDateOfMonth\LastDateOfMonth\bin\Debug\LastDateOfMonth.exe.config
+C:\LastDateOfMonth\LastDateOfMonth\bin\Debug\LastDateOfMonth.exe
+C:\LastDateOfMonth\LastDateOfMonth\bin\Debug\LastDateOfMonth.pdb
+C:\LastDateOfMonth\LastDateOfMonth\obj\Debug\LastDateOfMonth.csprojAssemblyReference.cache
+C:\LastDateOfMonth\LastDateOfMonth\obj\Debug\LastDateOfMonth.csproj.CoreCompileInputs.cache
+C:\LastDateOfMonth\LastDateOfMonth\obj\Debug\LastDateOfMonth.exe
+C:\LastDateOfMonth\LastDateOfMonth\obj\Debug\LastDateOfMonth.pdb
